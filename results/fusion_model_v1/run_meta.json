@@ -1,0 +1,8 @@
+{
+  "patch_dataset": "/kaggle/input/patches",
+  "profile_dataset": "/kaggle/input/patches",
+  "split_seed": 42,
+  "epochs": 8,
+  "lr": 0.0003,
+  "batch": 16
+}

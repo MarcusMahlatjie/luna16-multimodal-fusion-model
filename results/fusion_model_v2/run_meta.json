@@ -1,0 +1,10 @@
+{
+  "pos_patches_dataset": "/kaggle/input/patches",
+  "neg_patches_dataset": "/kaggle/input/negative-mining-output-data",
+  "profiles_dataset": "/kaggle/input/patches",
+  "split_seed": 42,
+  "epochs": 8,
+  "lr": 0.0003,
+  "batch": 16,
+  "model": "Fusion: r3d_18 backbone + TabMLP(64) -> concat -> MLP"
+}
