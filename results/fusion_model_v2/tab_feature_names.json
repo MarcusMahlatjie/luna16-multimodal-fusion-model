@@ -1,1 +1,14 @@
-["num__age", "num__pack_years", "num__years_since_quit", "cat__sex_F", "cat__sex_M", "cat__smoking_status_current", "cat__smoking_status_former", "cat__smoking_status_never", "cat__family_history_0", "cat__family_history_1", "cat__copd_dx_0", "cat__copd_dx_1"]
+[
+    "num__age",
+    "num__pack_years",
+    "num__years_since_quit",
+    "cat__sex_F",
+    "cat__sex_M",
+    "cat__smoking_status_current",
+    "cat__smoking_status_former",
+    "cat__smoking_status_never",
+    "cat__family_history_0",
+    "cat__family_history_1",
+    "cat__copd_dx_0",
+    "cat__copd_dx_1"
+]
